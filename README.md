@@ -8,4 +8,4 @@ I enjoy building projects from the ground up. Not just writing code, but also pl
 ### **🌟 Outside of School?**
 When I'm not staring at a monitor, I enjoy working out, shopping, listening to music, and learning new hobbies. You'll never catch me bored!
 
-###Thanks for stopping by, check out some of my projects below! 😎
+#### Thanks for stopping by, check out some of my projects below! 😎
